@@ -1,0 +1,4 @@
+badminton
+football
+rugby
+takraw
